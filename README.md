@@ -10,21 +10,21 @@
 ### <div align="center" >Problems I love to solve</div>
 
 <div align="center">
-<div style="display: flex; justify-content: center; -webkit-column-count: 2; -moz-column-count: 2; column-count: 2; -webkit-column-rule: 1px dotted #e0e0e0; -moz-column-rule: 1px dotted #e0e0e0; column-rule: 1px dotted #e0e0e0;">
+<!-- <div style="display: flex; justify-content: center; -webkit-column-count: 2; -moz-column-count: 2; column-count: 2; -webkit-column-rule: 1px dotted #e0e0e0; -moz-column-rule: 1px dotted #e0e0e0; column-rule: 1px dotted #e0e0e0;"> -->
     <div style="display: inline-block;">
-        <ul>
-        <li>Performance Optimization: Nothing like the challenge of making slow code fast.</li>
-        <li>Creative Experiences: determining the best way to accomplish business goals</li>
-        </ul>
+        <!-- <ul> -->
+        <p>Performance Optimization: Nothing like the challenge of making slow code fast.</p>
+        <p>Creative Experiences: determining the best way to accomplish business goals</p>
+        <!-- </ul> -->
     </div>
     <div style="display: inline-block;">
-        <ul>
-        <li>Conversion Optimization: A/B testing, Psychology</li>
-        <li>Graphics: The opportunity to think outside the box and work with 2d/3d effects and renderers</li>
-        <li>UI/UX: I love to dig deep and think about the users journey and how to get to the destination quickly</li>
-        </ul>
+        <!-- <ul> -->
+        <p>Conversion Optimization: A/B testing, Psychology</p>
+        <p>Graphics: The opportunity to think outside the box and work with 2d/3d effects and renderers</p>
+        <p>UI/UX: I love to dig deep and think about the users journey and how to get to the destination quickly</p>
+        <!-- </ul> -->
     </div>
-</div>
+<!-- </div> -->
 </div>
 
 ---
