@@ -19,8 +19,9 @@
     </div>
     <div style="display: inline-block;">
         <ul>
-        <li>Conversion Optimization: A/B testing, Pschology</li>
-        <li>Graphics: The opportunity to think outside the box and work with 3D technologies</li>
+        <li>Conversion Optimization: A/B testing, Psychology</li>
+        <li>Graphics: The opportunity to think outside the box and work with 2d/3d effects and renderers</li>
+        <li>UI/UX: I love to dig deep and think about the users journey and how to get to the destination quickly</li>
         </ul>
     </div>
 </div>
