@@ -1,7 +1,7 @@
+# <div align="" ><strong>Hi, I'm Zach</strong></div>
+
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/Zachacious#9245)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/zachmoore1)
-
-# <div align="" ><strong>Hi, I'm Zach</strong></div>
 
 <div align="">Creative developer with frontend expertise. I design and execute user experiences that perfectly marry functional specs, and beautiful design while accomplishing business objectives. I'm ambitious and I love to attempt things that have never been done before.</div>
 
