@@ -1,9 +1,50 @@
-# <div align="" ><strong>Hi, I'm Zach</strong></div>
+<style>
+    * {
+        cursor: url(cursor.png), auto;
+    }
+    .title {
+        color: #aaaaff;
+        transition: color 0.5s;
+        display: flex;
+        justify-content:center;
+        align-items: center;
+        width: 100%;
+        
+    }
+    .title:hover {
+        color: #ccccff;
+        text-shadow: 0 0 5px #ccccff;
+    }
+    .sub-title {
+        padding-left: 10px;
+        font-size: 0.8em;
+    }
+    .badges {
+        display: flex;
+        justify-content:center;
+    }
+    .link-badges {
+        width: 100%;
+        display: flex;
+        justify-content:center;
+        cursor: url('cursor.png'), default;
+    }
+    .link-badges:hover {
+        transform: scale(1.1);
+        cursor: url('cursor.png'), default;
+    }
+</style>
 
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/Zachacious#9245)
+# <div align="" class="title" ><strong>Hi, I'm Zach</strong> <div class="sub-title">Fullstack Engineer | Frontend Expert</div></div>
+
+<div class="link-badges">
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/zachmoore1)
 
-<div align="">Creative developer with frontend expertise. I design and execute user experiences that perfectly marry functional specs, and beautiful design while accomplishing business objectives. I'm ambitious and I love to attempt things that have never been done before.</div>
+</div>
+
+<!--
+<div align="">Creative developer with frontend expertise. I design and execute user experiences that perfectly marry functional specs, and beautiful design while accomplishing business objectives. I'm ambitious and I love to attempt things that have never been done before.</div> -->
 
 <!-- --- -->
 
@@ -23,18 +64,19 @@
 
 ---
 
-## <div align="" ><strong>What I'm Up To</strong></div>
+<!-- ## <div align="" ><strong>What I'm Up To</strong></div>
 
 <div align="">
 <p>At the moment, I write alot of JavaScript(VueJS) and Dart(Flutter).
 On top of the numerous projects I'm building and maintaining at the day job, I'm also starting a blog and building a new personal website.</p>
-</div>
+</div> -->
 
----
+<!-- --- -->
 
-<div align="">
+<div class="badges">
 
 ![GithubStats](https://github-readme-stats.vercel.app/api?username=zachacious&theme=dracula&count_private=True&hide=contribs,issues&show_icons=Truet&hide_border=True&hide_rank=True)
+
 ![GithubStats](https://github-readme-stats.vercel.app/api/top-langs/?username=zachacious&theme=dracula&layout=compact&hide_border=True&langs_count=10)
 
 </div>
