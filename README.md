@@ -35,9 +35,9 @@
     }
 </style> -->
 
-# <div align="" class="title" ><strong>Hi, I'm Zach</strong> => <small class="sub-title">Fullstack Engineer | Frontend Expert</small></div>
+# <div align="middle" class="title" ><strong>Hi, I'm Zach</strong> => <small class="sub-title">Fullstack Engineer | Frontend Expert</small></div>
 
-<div class="link-badges">
+<div class="link-badges" align="middle">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/zachmoore1)
 
@@ -73,7 +73,7 @@ On top of the numerous projects I'm building and maintaining at the day job, I'm
 
 <!-- --- -->
 
-<div class="badges">
+<div class="badges" align="middle">
 
 ![GithubStats](https://github-readme-stats.vercel.app/api?username=zachacious&theme=dracula&count_private=True&hide=contribs,issues&show_icons=Truet&hide_border=True&hide_rank=True)
 
