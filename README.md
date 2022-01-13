@@ -1,4 +1,4 @@
-<style>
+<!-- <style>
     * {
         cursor: url(cursor.png), auto;
     }
@@ -9,7 +9,7 @@
         justify-content:center;
         align-items: center;
         width: 100%;
-        
+
     }
     .title:hover {
         color: #ccccff;
@@ -33,9 +33,9 @@
         transform: scale(1.1);
         cursor: url('cursor.png'), default;
     }
-</style>
+</style> -->
 
-# <div align="" class="title" style="color:blue" ><strong>Hi, I'm Zach</strong> <div class="sub-title">Fullstack Engineer | Frontend Expert</div></div>
+# <div align="" class="title" ><strong>Hi, I'm Zach</strong> <small class="sub-title">Fullstack Engineer | Frontend Expert</small></div>
 
 <div class="link-badges">
 
