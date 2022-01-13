@@ -35,7 +35,7 @@
     }
 </style>
 
-# <div align="" class="title" ><strong>Hi, I'm Zach</strong> <div class="sub-title">Fullstack Engineer | Frontend Expert</div></div>
+# <div align="" class="title" style="color:blue" ><strong>Hi, I'm Zach</strong> <div class="sub-title">Fullstack Engineer | Frontend Expert</div></div>
 
 <div class="link-badges">
 
