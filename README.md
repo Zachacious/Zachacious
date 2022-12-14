@@ -36,6 +36,7 @@
 </style> -->
 
 # Zach Moore
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/zachmoore1)
 
 Techno philosopher & creator of things
 
@@ -43,7 +44,10 @@ Techno philosopher & creator of things
 
 **Languages**: JS/TS, Python, C/C++, Dart, Go<br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/zachmoore1)
+**Home Lab**
+Main Server - AMD Epyc(24 core), 128gb DDR4 ECC - 4TB SSD, 16TB SAS for TrueNAS Core
+I run a 10 node virtualized K3s cluster mostly for experimentation/personal projects etc.
+and lots of VM's/LXC's for awesome open-source self hosted software.
 
 <!-- <div class="badges" align="middle">
 
