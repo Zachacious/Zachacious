@@ -47,7 +47,7 @@ VueJS, Flutter, Quasar, Vite, Webpack, Tailwind, Kubernetes, GraphQL, gRPC, GSAP
 JS/TS, Python, C/C++, Dart, Go...<br/>
 
 ### **Home Lab**
-**Main Server** - AMD Epyc(24 core), 128gb DDR4 ECC - 4TB SSD, 16TB SAS for TrueNAS Core
+**Main Server** - AMD Epyc(24 core), 128gb DDR4 ECC - 4TB SSD, 16TB SAS for TrueNAS Core<br />
 I run a 10 node virtualized K3s cluster mostly for experimentation/personal projects etc.
 and lots of VM's/LXC's for awesome open-source self hosted software.
 
