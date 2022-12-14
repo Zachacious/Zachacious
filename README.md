@@ -41,7 +41,7 @@
 Techno philosopher & creator of things
 
 ### **Tech**
-VueJS, Flutter, Quasar, Vite, Webpack, Tailwind, Kubernetes, GraphQL, gRPC, AWS...
+VueJS, Flutter, Quasar, Vite, Webpack, Tailwind, Kubernetes, GraphQL, gRPC, GSAP, AWS...
 
 ### **Languages**
 JS/TS, Python, C/C++, Dart, Go...<br/>
