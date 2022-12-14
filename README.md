@@ -37,12 +37,9 @@
 
 # Zach Moore
 
-~ A technology agnostic problem solver and entrepreneurial minded code slinger.
-I'm unique in that I have a background in art, design and photography.
+Techno philosopher & creator of things
 
-I started programming over 20 years ago and still enjoy working on interesting problems with creative and passionate people.
-
-### **Current Daily Stack**
+### **Tech**
 
 **Web**: Typescript, VueJS<br/>
 **Mobile**: Dart, Flutter
