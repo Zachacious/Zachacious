@@ -38,7 +38,10 @@
 # Zach Moore
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/zachmoore1)
 
-Techno philosopher
+>“Beware that, when fighting monsters, you yourself do not become a monster... for when you gaze long into the abyss. The abyss gazes also into you.”
+― Friedrich W. Nietzsche
+
+<!-- Techno philosopher
 
 ### **Tech**
 VueJS, Flutter, Quasar, Vite, Webpack, Tailwind, Docker, Kubernetes, GraphQL, gRPC, GSAP, AWS...
@@ -49,7 +52,7 @@ JS/TS, Python, C/C++, Dart, Go...<br/>
 ### **Home Lab**
 **Main Server** - AMD Epyc(24 core), 128gb DDR4 ECC - 4TB SSD, 16TB SAS for TrueNAS Core<br />
 I run a 10 node virtualized K3s cluster mostly for experimentation/personal projects etc.
-and lots of VM's/LXC's for awesome open-source self hosted software.
+and lots of VM's/LXC's for awesome open-source self hosted software. -->
 
 <!-- <div class="badges" align="middle">
 
