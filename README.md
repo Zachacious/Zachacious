@@ -38,7 +38,7 @@
 # Zach Moore
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/zachmoore1)
 
-<!-->“Beware that, when fighting monsters, you yourself do not become a monster... for when you gaze long into the abyss. The abyss gazes also into you.”
+<!-- >“Beware that, when fighting monsters, you yourself do not become a monster... for when you gaze long into the abyss. The abyss gazes also into you.”
 <!-- ― Friedrich W. Nietzsche
 
 <!-- Techno philosopher
